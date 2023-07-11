@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33711.374
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobServices", "BlobServices.csproj", "{80454FBF-2499-4B79-B3F0-1699A56853A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80454FBF-2499-4B79-B3F0-1699A56853A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80454FBF-2499-4B79-B3F0-1699A56853A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80454FBF-2499-4B79-B3F0-1699A56853A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80454FBF-2499-4B79-B3F0-1699A56853A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57C8F1E3-29D3-4B94-9129-81AB88F0FCC2}
+	EndGlobalSection
+EndGlobal

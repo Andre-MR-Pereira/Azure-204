@@ -1,2 +1,2 @@
-# azure-204
-Sample test applications for az204
+# Azure-204
+Repo containing code samples to train for Azure 204 cert.

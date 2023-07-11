@@ -1,0 +1,6 @@
+.azure
+.vs
+bin
+obj
+*.csproj.user
+htmlapp
